@@ -28,7 +28,7 @@ module.exports = {
     },
   ],
   ignorePatterns: ["node_modules/", "lib/"],
-  parser: "babel-eslint",
+  parser: "@babel/eslint-parser",
   globals: {
     React: "readonly",
     SparkCommunications: "readonly",
