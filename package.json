@@ -1,6 +1,6 @@
 {
-  "name": "@rolo-chat/eslint-config-frontend",
-  "version": "0.0.3",
+  "name": "eslint-config-rolo-frontend",
+  "version": "0.0.1",
   "description": "Eslint config for the Rolo frontend teams",
   "main": "src/index.js",
   "scripts": {},
@@ -24,15 +24,8 @@
   },
   "homepage": "https://github.com/rolo-chat/eslint-config-frontend#readme",
   "dependencies": {
-    "@babel/eslint-parser": "^7.11.5",
-    "eslint": "^7.10.0",
-    "eslint-config-google": "^0.14.0",
-    "eslint-config-prettier": "^6.12.0",
     "eslint-config-prettier-react": "0.0.24",
-    "eslint-import-resolver-babel-module": "^5.1.2",
-    "eslint-plugin-babel": "^5.3.1",
-    "eslint-plugin-import": "^2.22.1",
-    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-config-rolo": "0.0.1",
     "eslint-plugin-react": "^7.21.3",
     "eslint-plugin-react-hooks": "^4.1.2"
   }
