@@ -1,19 +1,18 @@
 {
-  "name": "@kaneoh/eslint-config-frontend",
+  "name": "@rolo-chat/eslint-config-frontend",
   "version": "0.0.2",
   "description": "Eslint config for the Rolo frontend teams",
   "main": "src/index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaneoh/eslint-config-frontend.git"
+    "url": "git+https://github.com/rolo-chat/eslint-config-frontend.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://registry.npmjs.org/"
   },
   "keywords": [
     "eslint",
-    "kaneoh",
     "rolo",
     "config",
     "frontend"
@@ -21,9 +20,9 @@
   "author": "Rolo Innovation Inc.",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/kaneoh/eslint-config-frontend/issues"
+    "url": "https://github.com/rolo-chat/eslint-config-frontend/issues"
   },
-  "homepage": "https://github.com/kaneoh/eslint-config-frontend#readme",
+  "homepage": "https://github.com/rolo-chat/eslint-config-frontend#readme",
   "dependencies": {
     "@babel/eslint-parser": "^7.11.5",
     "eslint": "^7.10.0",
