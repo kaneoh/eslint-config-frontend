@@ -1,4 +1,4 @@
-# Eslint config frontedn
+# Eslint config frontend
 
 Eslint config for the frontend teams working on Rolo.
 

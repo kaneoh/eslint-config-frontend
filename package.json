@@ -1,6 +1,6 @@
 {
   "name": "@rolo-chat/eslint-config-frontend",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Eslint config for the Rolo frontend teams",
   "main": "src/index.js",
   "scripts": {},
