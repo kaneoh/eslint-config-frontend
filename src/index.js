@@ -5,9 +5,9 @@ module.exports = {
   },
   extends: [
     "eslint-config-rolo",
+    "prettier/react",
     "plugin:react/recommended",
     "plugin:react-hooks/recommended",
-    "prettier/react",
   ],
   plugins: ["react", "react-hooks"],
   overrides: [
@@ -29,10 +29,18 @@ module.exports = {
     "valid-jsdoc": "off",
     "prettier/prettier": "error",
     "new-cap": "off",
+    "react/no-unused-prop-types": "error",
+    "react/jsx-handler-names": "error",
+    "react/display-name": "error",
   },
   settings: {
     react: {
       version: "detect",
+    },
+  },
+  parserOptions: {
+    ecmaFeatures: {
+      jsx: true,
     },
   },
 };
