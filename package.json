@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-rolo-frontend",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Eslint config for the Rolo frontend teams",
   "main": "src/index.js",
   "scripts": {},
@@ -25,7 +25,7 @@
   "homepage": "https://github.com/rolo-chat/eslint-config-frontend#readme",
   "dependencies": {
     "eslint-config-prettier-react": "0.0.24",
-    "eslint-config-rolo": "0.0.2",
+    "eslint-config-rolo": "0.0.3",
     "eslint-plugin-react": "^7.21.3",
     "eslint-plugin-react-hooks": "^4.1.2"
   }
