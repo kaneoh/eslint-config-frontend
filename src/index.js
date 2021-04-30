@@ -5,7 +5,6 @@ module.exports = {
   },
   extends: [
     "eslint-config-rolo",
-    "prettier/react",
     "plugin:react/recommended",
     "plugin:react-hooks/recommended",
   ],
